@@ -6,14 +6,13 @@ A command-line tool for converting photos into ASCII art.
 **Original Image vs Converted to ASCII Art:** 
 
 <p align="center">
-  <img src="./ExemplaryPhoto.jpg" alt="Original Image" width="45%">
-  <img src="./ConvertedExemplaryPhoto.jpg" width="45%">
+  <img src="./ExemplaryPhoto.jpg" alt="Original Image" width="40%">
+  <img src="./ConvertedExemplaryPhoto.jpg" width="40%">
 </p>
 
 ## 🛠 Usage  
-Run the comand:
+Run the comand:<br />
 python AsciiartConverter.py --file /path/to/input.jpg --scale 1 --out /path/to/output.txt --cols 100<br />
-
 Requirements:<br />
 Make sure that Numpy and pillow packages are installed:<br />
 pip install numpy <br />
