@@ -8,7 +8,6 @@ A command-line tool for converting photos into ASCII art.
 <p align="center">
 Original Image:  
 ![Original](./ExemplaryPhoto.jpg)  
-
 Converted ASCII Art:  
 ![ASCII Art](./ConvertedExemplaryPhoto.jpg)
 </p>
